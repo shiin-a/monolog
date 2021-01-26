@@ -1,4 +1,12 @@
 {
+    "name": "shiina/tmp",
+    "authors": [
+        {
+            "name": "Shiina",
+            "email": "shiinayusuke01@gmail.com"
+        }
+    ],
+
     "require": {
         "monolog/monolog": "^2.2"
     }
